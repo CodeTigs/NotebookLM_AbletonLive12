@@ -18,6 +18,7 @@ Resolução de Problemas: Auxílio rápido para erros comuns de configuração e
 🔗 Link de Acesso
 Você pode acessar o notebook e começar a fazer perguntas através do link abaixo:
 👉 Acesse o Assistente Ableton Live 12 no NotebookLM
+https://notebooklm.google.com/notebook/f2c33f06-e7f3-4099-8100-5a4ef0be5172
 
 🛠️ Como usar
 Clique no link acima.
